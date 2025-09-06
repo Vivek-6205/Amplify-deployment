@@ -1,1 +1,1 @@
-hello boy
+print ("hello")
